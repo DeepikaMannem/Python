@@ -1,0 +1,6 @@
+n = str(input("String = "))
+length = len(n)
+print("The Given string is ", n)
+print("Length of string is ", length)
+print("To upper = ", n.upper())
+print("To Lower = ", n.lower())
